@@ -24,7 +24,7 @@ function Header() {
                   <div className="h-info01">
                     <div className="tt-item">
                       <address>
-                        <span className="icon-map-marker" /> Maaz Complex, Juna Bazar, Beside B.M.C Bank, Aurangabad - 431001
+                        <i href="https://maps.app.goo.gl/LbKCH5cAEY2UDH2A8"><span className="icon-map-marker" /> Maaz Complex, Juna Bazar, Beside B.M.C Bank, Aurangabad - 431001</i>
                       </address>
                     </div>
                   </div>
